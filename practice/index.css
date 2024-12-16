@@ -1,0 +1,28 @@
+.name{
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+    background-color: rgb(144, 97, 161);
+    text-align: center;
+}
+#linkedin{
+    font-size: 20px;
+    margin-top:30px;
+    font-weight: 900;
+    color: black;
+    background-color: rgb(180, 104, 160);
+    text-align: center;
+}
+.btn{
+    text-align: center;
+}
+button{
+    background-color: rgb(59, 59, 160);
+    font-size: 35px;
+    margin-top:30px;
+}
+
+button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
